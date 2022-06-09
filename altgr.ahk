@@ -95,9 +95,9 @@ return
 <^>!+z::Send,   {U+003C} ; <
 <^>!+x::Send,   {U+003E} ; >
 <^>!+c::Send,   {U+00A9} ; ©
-<^>!+v::Send,   {U+2018} ; ‘
-<^>!+b::Send,   {U+2019} ; ’
-<^>!+n::Send,   {U+2014} ; —  m-dash  non-standard
+<^>!+v::Send,   {U+2014} ; —  m-dash  non-standard
+<^>!+b::Send,   {U+2018} ; ‘
+<^>!+n::Send,   {U+2019} ; ’
 <^>!+m::Send,   {U+00BA} ; º
 <^>!+,::Send,   {U+00D7} ; ×
 <^>!+.::Send,   {U+00F7} ; ÷
