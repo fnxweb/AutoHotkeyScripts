@@ -84,9 +84,9 @@ return
 <^>!z::Send,    {U+00AB} ; «
 <^>!x::Send,    {U+00BB} ; »
 <^>!c::Send,    {U+00A2} ; ¢
-<^>!v::Send,    {U+201C} ; “
-<^>!b::Send,    {U+201D} ; ”
-<^>!n::Send,    {U+2013} ; –  n-dash  non-standard
+<^>!v::Send,    {U+2013} ; –  n-dash  non-standard
+<^>!b::Send,    {U+201C} ; “
+<^>!n::Send,    {U+201D} ; ”
 <^>!m::Send,    {U+00B5} ; µ
 <^>!,::Send,    {U+203D} ; ‽  non-standard
 <^>!.::Send,    {U+00B7} ; ·
