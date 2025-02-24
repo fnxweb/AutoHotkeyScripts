@@ -188,7 +188,7 @@ return
 
 <^>!=::
 neq_deadkeys := { e: "{U+0229}", r: "{U+0157}", t: "{U+0163}", s: "{U+015F}", d: "{U+1E11}"     ; =
-                , g: "{U+0122}", h: "{U+1E29}", k: "{U+0137}", l: "{U+013C}", c: "{U+0037}", n: "{U+0146}" }
+                , g: "{U+0122}", h: "{U+1E29}", k: "{U+0137}", l: "{U+013C}", c: "{U+00E7}", n: "{U+0146}" }
 Input, key, L1, {delete}{esc}{home}{end}{backspace}
 Send, % neq_deadkeys[key]
 return
