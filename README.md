@@ -1,3 +1,6 @@
+# THIS REPO HAS BEEN RELOCATED
+The new location is https://codeberg.org/fnxweb/AutoHotkeyScripts
+___
 # AutoHotkeyScripts
 AutoHotkey scripts (ref. https://www.autohotkey.com/)
 
